@@ -37,8 +37,6 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmaepraendith&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmaepraendith&layout=compact&theme=tokyonight)
-
 ![](https://github-contributor-stats.vercel.app/api?username=jmaepraendith&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
