@@ -30,6 +30,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![AWS Cloud](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
 
 ---
 
